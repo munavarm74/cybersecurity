@@ -1,0 +1,68 @@
+16:47:52 From  Munavar Moghal  to  Everyone:
+	Sorry for joining late
+16:48:59 From  Michelle Sheppard  to  Everyone:
+	https://immersivelabs.register/
+16:49:18 From  Michelle Sheppard  to  Everyone:
+	https://immersivelabs.online/
+16:49:38 From  Michelle Sheppard  to  Everyone:
+	https://immersivelabs.online/signin
+16:50:01 From  Yasin Celik  to  Everyone:
+	IML-TTAWICA-21
+16:50:02 From  Michelle Sheppard  to  Everyone:
+	TTAWICA-21
+16:50:07 From  Elizabeth  to  Everyone:
+	Thanks
+16:52:16 From  Elizabeth  to  Everyone:
+	anybody having problems with the code?
+16:52:29 From  Elizabeth  to  Everyone:
+	yes
+16:52:35 From  Elizabeth  to  Everyone:
+	I can try after this session
+16:52:41 From  Yasin Celik  to  Everyone:
+	IML-TTAWICA-21
+16:52:44 From  Michelle Sheppard  to  Everyone:
+	IML-TTAWICA-21
+16:53:27 From  Yasin Celik  to  Everyone:
+	YES
+16:53:30 From  Farrukh Saeed  to  Everyone:
+	yes thanks it is working
+16:53:39 From  Elizabeth  to  Everyone:
+	im in
+16:53:44 From  Elizabeth  to  Everyone:
+	thanks
+16:55:54 From  Michelle Sheppard  to  Everyone:
+	https://www.ukcybersecuritycouncil.org.uk/
+16:57:04 From  Michelle Sheppard  to  Everyone:
+	https://immersivelabs.online/labs/python-coding-introduction/
+17:08:23 From  Michelle Sheppard  to  Everyone:
+	#Sept 2021	#random guess	import random # imports the random library		print ("\n\tHello and welcome to the Guess your number game \n\n")		myName = input("Hello! What is your name? ")	number = random.randint(1,10) # random generation between 1 and 10		print("Well, " + myName +  " I am thinking of a number between 1 and 10.")		guess = int(input("Take a guess:") )		if guess == number:	    print("Good job, " + myName + " You guessed my number")	else:	   print("Wrong, better luck next time")
+17:26:46 From  PaulHenderson  to  Everyone:
+	https://www.eventbrite.co.uk/e/203083286577
+17:28:57 From  PaulHenderson  to  Everyone:
+	paul@techtalent.academy
+17:31:23 From  Farrukh Saeed  to  Everyone:
+	Hi Paul, I already have LinkedIn profile, how to make cybersecurity focused profile, any tips please, should I add TTA training from now on
+17:41:01 From  Farrukh Saeed  to  Everyone:
+	many thanks
+17:41:05 From  Yasin Celik  to  Everyone:
+	thanks
+17:41:32 From  Yasin Celik  to  Everyone:
+	Paul is more excited than us
+17:43:02 From  Elizabeth  to  Everyone:
+	There Is a new cyber security only Linkedin
+17:43:10 From  Elizabeth  to  Everyone:
+	I'll send it to you later
+17:44:32 From  Michelle Sheppard  to  Everyone:
+	5.50
+17:44:43 From  Elizabeth  to  Everyone:
+	yeah
+17:44:48 From  Kay Kay  to  Everyone:
+	Do we agree to start this class every Wednesday at 5pm?
+17:45:50 From  Michelle Sheppard  to  Everyone:
+	I will get a ms form out to you all with to gather responses
+18:00:24 From  Michelle Sheppard  to  Everyone:
+	i = 1while i < 6:  print(i)  i = i + 1
+18:26:13 From  michelle  to  Everyone:
+	where is the teams link?
+18:26:32 From  michelle  to  Everyone:
+	thank you :)
